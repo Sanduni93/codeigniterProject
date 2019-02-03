@@ -1,0 +1,24 @@
+
+body.registerbody{
+
+	background-image: url('img5.jpg');
+}
+
+.form-group label{
+	font-size: 18px;
+    color: white;
+}
+body.loginbody{
+	background-image: url('img4.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.form1{
+	background-color: #85adad;
+	margin-top: 150px;
+	padding : 10px 10px 10px 10px;
+}
+body.profilebody{
+
+	background-image: url('img6.jpg');
+}
